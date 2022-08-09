@@ -1,7 +1,7 @@
 import React from "react";
 
 //* import components
-import Setup from "./tutorial/2-useEffect/setup/2-useEffect-cleanup";
+import Setup from "./tutorial/2-useEffect/setup/3-useEffect-fetch-data";
 function App() {
   return (
     <div className="container">
