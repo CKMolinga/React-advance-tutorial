@@ -1,7 +1,7 @@
 import React from "react";
 
 //* import components
-import Setup from "./tutorial/1-useState/setup/1-error-example";
+import Setup from "./tutorial/1-useState/setup/2-useState-basics";
 function App() {
   return (
     <div className="container">
